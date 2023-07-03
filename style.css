@@ -1,0 +1,107 @@
+.div1 h2{
+    text-align: center;
+    margin-top: 100px;
+    color: dimgrey;
+    font-family: Verdana,sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+}
+.div1 h1{
+    text-align: center;
+    color: dimgrey;
+    font-family: Verdana,sans-serif;
+    font-weight: 100;
+    font-size: 30px;
+}
+.container{
+    width: 100%;
+    height: 4000px;
+}
+.a{
+    background-color: rgb(255, 255, 255); 
+    border-color: dimgray;
+   width: 90px;
+   height: 30px;
+  border-right: none;
+  margin-left: 550px;
+  margin-top: 20px;
+}
+.d{
+   text-decoration: none;
+   color: dimgray;
+}
+.b{
+    background-color: rgb(255, 255, 255); 
+    border-color: dimgray;
+   width: 100px;
+   height: 30px ;
+   border-left: none;
+   border-right: none;
+  
+}
+.c{
+    background-color: rgb(255, 255, 255); 
+    border-color: dimgray;
+   width: 100px;
+   height: 30px ;
+   border-left: none;
+   border-right: none;
+
+}
+.n{
+    background-color: rgb(255, 255, 255); 
+    border-color: dimgray;
+   width: 90px;
+   height: 30px ;
+   border-left: none;
+ 
+}
+.vf{
+    margin-left: 10px;
+    display: flex;
+    margin-top: 30px;
+}
+.div3 img{
+    margin-left: 51%;
+    margin-top: -422px;
+} 
+.div4 img{
+    margin-top: -150px;
+    margin-left: 10px;
+}
+.div5 img{
+    margin-left: 768px;
+    margin-top: -270px;
+}
+.div6 img{
+    margin-top: 10px;
+}
+.div8 img{
+margin-left: 9px;
+margin-top: -1650px;
+display: flex;
+}
+.div9 img{
+    margin-top: 10px;
+}
+.div11{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(155, 155, 155);
+    margin-top: 100px;
+    position: absolute;
+}
+.div11 h3{
+    color: black;
+    font-family: sans-serif;
+    font-weight: 100;
+    text-align: center;
+    margin-top: 80px;
+
+}
+.div11 a{
+    color: black;
+}
+.img{
+
+}
